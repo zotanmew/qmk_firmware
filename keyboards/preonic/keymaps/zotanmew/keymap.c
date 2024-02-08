@@ -1,4 +1,4 @@
-/* Copyright 2015-2021 Jack Humbert
+ /* Copyright 2015-2021 Jack Humbert
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -69,7 +69,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  * |------+------+------+------+------+------+------+------+------+------+------+------|
  * |   `  |      |   $  |   €  |      |      |      |   ü  |      |      |   ö  |      |
  * |------+------+------+------+------+------+------+------+------+------+------+------|
- * |  Del |   ä  |   ß  |      |      |      |      |      |      |      |      |      |
+ * |      |   ä  |   ß  |      |      |      |      |      |      |      |      |      |
  * |------+------+------+------+------+------+------+------+------+------+------+------|
  * |      |      |      |      |      |      |      |      |ISO ~ |ISO | |ISO # |ISO / |
  * |------+------+------+------+------+------+------+------+------+------+------+------|
